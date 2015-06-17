@@ -1,0 +1,7 @@
+\\fs2\01110489\Visual Studio 2010\Projects\MysqlMusicLib\obj\x86\Debug\MysqlMusicLib.csprojResolveAssemblyReference.cache
+\\fs2\01110489\Visual Studio 2010\Projects\MysqlMusicLib\bin\Debug\MysqlMusicLib.exe.config
+\\fs2\01110489\Visual Studio 2010\Projects\MysqlMusicLib\bin\Debug\MysqlMusicLib.exe
+\\fs2\01110489\Visual Studio 2010\Projects\MysqlMusicLib\bin\Debug\MysqlMusicLib.pdb
+\\fs2\01110489\Visual Studio 2010\Projects\MysqlMusicLib\bin\Debug\MySql.Data.dll
+\\fs2\01110489\Visual Studio 2010\Projects\MysqlMusicLib\obj\x86\Debug\MysqlMusicLib.exe
+\\fs2\01110489\Visual Studio 2010\Projects\MysqlMusicLib\obj\x86\Debug\MysqlMusicLib.pdb

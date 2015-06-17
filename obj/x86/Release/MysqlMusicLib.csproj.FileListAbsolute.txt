@@ -1,0 +1,6 @@
+\\fs2\01110489\Visual Studio 2010\Projects\MysqlMusicLib\bin\Release\MysqlMusicLib.exe.config
+\\fs2\01110489\Visual Studio 2010\Projects\MysqlMusicLib\bin\Release\MysqlMusicLib.exe
+\\fs2\01110489\Visual Studio 2010\Projects\MysqlMusicLib\bin\Release\MysqlMusicLib.pdb
+\\fs2\01110489\Visual Studio 2010\Projects\MysqlMusicLib\bin\Release\MySql.Data.dll
+\\fs2\01110489\Visual Studio 2010\Projects\MysqlMusicLib\obj\x86\Release\MysqlMusicLib.exe
+\\fs2\01110489\Visual Studio 2010\Projects\MysqlMusicLib\obj\x86\Release\MysqlMusicLib.pdb
